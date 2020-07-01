@@ -1,0 +1,45 @@
+.home
+{
+    background-color: aqua;
+    border: 2px  solid #282c34  ;
+    width: 100%;
+}
+.logo
+{
+    height: 100px;
+    width: 100px;
+
+}
+.logout
+{
+    float: right;
+    padding-right: 2px;
+}
+.login
+{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 40%;
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+}
+.gmail-logo
+{
+    border-radius: 50%;
+}
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    z-index: 1;
+}
+#sidebar
+{
+    text-align: center;
+}

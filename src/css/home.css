@@ -1,0 +1,28 @@
+.content
+{
+    background-color: aqua;
+    width: 65%;
+    float: right;
+    border: 2px solid red;
+    padding:3px;
+    margin-right: 15px;
+}
+.header
+{
+    padding:5%;
+}
+
+.content-post
+{
+    padding:5%;
+    background-color: #282c34;
+    color: #ffffff;
+}
+.date
+{
+    float: right;
+}
+.view_comment
+{
+    float: right;
+}
