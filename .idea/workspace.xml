@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10c8dce9-9072-4f78-b724-9cdcc2eb2898" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,11 +81,11 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="238">
+              <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding>
-                <marker date="1593969190362" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-                <marker date="1593969190362" expanded="true" signature="899:955" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+                <marker date="1593970867306" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
+                <marker date="1593970867306" expanded="true" signature="885:947" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -93,14 +94,14 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2720">
-              <caret line="160" column="21" lean-forward="false" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+            <state relative-caret-position="2737">
+              <caret line="161" column="21" lean-forward="false" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
               <folding>
-                <marker date="1593970166492" expanded="true" signature="54751:54836" ph="..." />
-                <marker date="1593970166492" expanded="true" signature="54751:54853" ph="..." />
-                <marker date="1593970166492" expanded="true" signature="54751:54871" ph="..." />
-                <marker date="1593970166492" expanded="true" signature="54751:54884" ph="..." />
-                <marker date="1593970166492" expanded="true" signature="54751:54899" ph="..." />
+                <marker date="1593970873968" expanded="true" signature="54950:55035" ph="..." />
+                <marker date="1593970873968" expanded="true" signature="54950:55052" ph="..." />
+                <marker date="1593970873968" expanded="true" signature="54950:55070" ph="..." />
+                <marker date="1593970873968" expanded="true" signature="54950:55083" ph="..." />
+                <marker date="1593970873968" expanded="true" signature="54950:55098" ph="..." />
               </folding>
             </state>
           </provider>
@@ -237,6 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,7 +254,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -456,12 +457,13 @@
       <workItem from="1593743836332" duration="1081000" />
       <workItem from="1593748573073" duration="612000" />
       <workItem from="1593964644248" duration="953000" />
-      <workItem from="1593968661824" duration="1508000" />
+      <workItem from="1593968661824" duration="1828000" />
+      <workItem from="1593970521231" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137067000" />
+    <option name="totallyTimeSpent" value="137740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,9 +475,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1372" height="733" extended-state="1" />
+    <frame x="-7" y="2" width="1372" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3917683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39786586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -483,7 +486,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -585,8 +588,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1593969190362" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-            <marker date="1593969190362" expanded="true" signature="899:955" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="885:947" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -645,8 +648,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1593969190362" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-            <marker date="1593969190362" expanded="true" signature="899:955" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="885:947" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -908,14 +911,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" column="21" lean-forward="false" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+        <state relative-caret-position="2737">
+          <caret line="161" column="21" lean-forward="false" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
           <folding>
-            <marker date="1593970166492" expanded="true" signature="54751:54836" ph="..." />
-            <marker date="1593970166492" expanded="true" signature="54751:54853" ph="..." />
-            <marker date="1593970166492" expanded="true" signature="54751:54871" ph="..." />
-            <marker date="1593970166492" expanded="true" signature="54751:54884" ph="..." />
-            <marker date="1593970166492" expanded="true" signature="54751:54899" ph="..." />
+            <marker date="1593970873968" expanded="true" signature="54950:55035" ph="..." />
+            <marker date="1593970873968" expanded="true" signature="54950:55052" ph="..." />
+            <marker date="1593970873968" expanded="true" signature="54950:55070" ph="..." />
+            <marker date="1593970873968" expanded="true" signature="54950:55083" ph="..." />
+            <marker date="1593970873968" expanded="true" signature="54950:55098" ph="..." />
           </folding>
         </state>
       </provider>
@@ -930,11 +933,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="238">
+          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding>
-            <marker date="1593969190362" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
-            <marker date="1593969190362" expanded="true" signature="899:955" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="140:466" ph="{&quot;@testing-library/jest-dom&quot;: &quot;^4.2.4&quot;...}" />
+            <marker date="1593970867306" expanded="true" signature="885:947" ph="{&quot;start&quot;: &quot;react-scripts start&quot;...}" />
           </folding>
         </state>
       </provider>
