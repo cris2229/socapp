@@ -28,11 +28,10 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy": "npm run dev",
-    "deploy" : "npm run dev",
-    "start": "npm run dev",
-    "express": "nodemon server.js",
-    "dev": "concurrently \"react-scripts start\" \"npm run express"
+    "dev": "concurrently \"npm run start\" \"npm run express",
+    "start": "react-scripts start",
+    "express": "nodemon server.js"
+
   },
   "eslintConfig": {
     "extends": "react-app"
