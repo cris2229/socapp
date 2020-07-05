@@ -28,10 +28,9 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run dev",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "express": "nodemon server.js",
     "dev": "concurrently \"npm run start\" \"npm run express"
   },
