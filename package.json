@@ -28,9 +28,12 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "dev": "concurrently \"npm run start\" \"npm run express",
-    "start": "react-scripts start",
-    "express": "nodemon server.js"
+    "dev": "react-scripts start",
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build"
 
   },
   "eslintConfig": {
