@@ -30,7 +30,7 @@
   "scripts": {
 
 
-    "start": "react-scripts start ",
+    "start": "nodemon server.js",
     "express": "nodemon server.js",
     "dev": "concurrently \"npm run dev\" \"npm run express"
   },
