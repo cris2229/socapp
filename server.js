@@ -44,9 +44,9 @@ app.post('/add',   (req, res) => {
     });
     res.send();
 });
-const server = app.listen(5000, function () {
-    const host = server.address().address;
-    const port = server.address().port;
-
-    console.log("example app listening at http://%s:%s", host, port)
-})
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('build'));
+    app.get('*', (req, res) => {
+        res.sendFile(path.join('build', 'index.html'));
+    });
+}
