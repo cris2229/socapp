@@ -30,10 +30,9 @@
   "scripts": {
 
 
-    "start": "concurrently \"npm run dev\" \"npm run express ",
+    "start": "react-scripts start ",
     "express": "nodemon server.js",
-    "dev": "react-scripts start"
-
+    "dev": "concurrently \"npm run dev\" \"npm run express"
   },
   "eslintConfig": {
     "extends": "react-app"
